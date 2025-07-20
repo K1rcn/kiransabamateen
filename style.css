@@ -294,20 +294,20 @@ h2:hover {
 
 
 .socials i {
-  font-size: 28px;         /* Make icons bigger */
-  color: white;            /* Change icon color to white */
+  font-size: 28px;      
+  color: white;          
   margin: 0 10px;
   transition: 0.3s;
 }
 
 .socials i:hover {
-  transform: scale(1.2);   /* Optional: slight zoom on hover */
-  color: #00acee;          /* Optional: change color on hover (e.g., light blue) */
+  transform: scale(1.2);   
+  color: #00acee;        
 }
 
 
 .hero {
-  background-color: #1c1c1c; /* dark background */
+  background-color: #1c1c1c; /
   color: white;
   padding: 60px 20px;
   text-align: center;
